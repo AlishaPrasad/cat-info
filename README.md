@@ -23,7 +23,7 @@ You may also see any lint errors in the console.
 This is a React application to display breed information.\
 A list of breeds is fetched from Cat API and displayed on the landing page.\
 'View Details' link will navigate to another page which will fetch breed details using breed id and display the details.\
-On the breed details page, the 'Home' link will navigate back to the landing page.
+On the breed details page, the 'Home' link will navigate back to the landing page.\
 React Context has been used to manage the state of the application.\
 React Router has been used for navigation.\
 styled-components has been used for custom styling.\
