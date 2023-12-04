@@ -18,6 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### About
+# About
 
 An application to fetch breeds from Cat API and display the list of breeds on the landing page. 'View Details' link will navigate another page which will fetch breed details using breed id and display the details. On the breed details page the 'Home' link will navigate back to the landing page. React Context is used to manage the state of the application. React Router is used for navigation. styled-components is used for custom styling. Brower API fetch is used for fetching data from Cat API.
